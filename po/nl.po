@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2024-03-04 09:05-0800\n"
+"POT-Creation-Date: 2024-03-31 19:17-0700\n"
 "PO-Revision-Date: 2023-12-16 19:10+0100\n"
 "Last-Translator: Heimen Stoffels <vistausss@fastmail.com>\n"
 "Language-Team: \n"
@@ -19,7 +19,7 @@ msgstr ""
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
 "X-Generator: Poedit 3.4.1\n"
 
-#: lib/notifier.js:29
+#: lib/notifier.js:19
 msgid "Battery Health Charging"
 msgstr "Accugezondheid"
 

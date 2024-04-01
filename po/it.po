@@ -9,7 +9,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: unnamed project\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2024-03-04 09:05-0800\n"
+"POT-Creation-Date: 2024-03-31 19:17-0700\n"
 "PO-Revision-Date: 2024-02-25 18:31+0100\n"
 "Last-Translator: Albano Battistella <albanobattistella@gmail.com>\n"
 "Language-Team: Italian <>\n"
@@ -20,7 +20,7 @@ msgstr ""
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
 "X-Generator: Poedit 3.4.1\n"
 
-#: lib/notifier.js:29
+#: lib/notifier.js:19
 msgid "Battery Health Charging"
 msgstr "Battery Health Charging"
 

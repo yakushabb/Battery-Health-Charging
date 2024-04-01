@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Battery Health Charging\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2024-03-04 09:05-0800\n"
+"POT-Creation-Date: 2024-03-31 19:17-0700\n"
 "PO-Revision-Date: 2023-12-16 17:33+0100\n"
 "Last-Translator: ViBE <vibe@protonmail.com>\n"
 "Language-Team: Hungarian <vibe@protonmail.com>\n"
@@ -17,7 +17,7 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=(n != 1)\n"
 
-#: lib/notifier.js:29
+#: lib/notifier.js:19
 msgid "Battery Health Charging"
 msgstr "Töltési mód"
 
